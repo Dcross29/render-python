@@ -41,7 +41,4 @@ def index():
     """
     return html_content
 
-# --- REMOVE THIS BLOCK FOR PRODUCTION DEPLOYMENT ---
-# if __name__ == '__main__':
-#     app.run(debug=True)
-# ----------------------------
+
